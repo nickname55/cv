@@ -31,7 +31,7 @@ Set up, administer, upgrade and integrate JIRA and Confluence, Bitbucket Server,
 - Administering a space
 - Managing content in Confluence
 - Write, build and update scripts, for extending Jira and Confluence beyond its standard capabilities using Groovy and/or Atlassian REST API’s
-- Design and developing of App’s for Jira and Confluence
+- Design and developing of App’s for JIRA Core/Software, Confluence, Bitbucket Server, Bamboo
 
 **Web Performance consultant** @ [freelance, etc]() _(September 2019 - February 2020)_ <br>
 Single Page App (Messenger) React.
