@@ -20,7 +20,7 @@ TeamCity Plugin: DevOps Automation for SQL Server is designed for establishing t
 - Test Step - runs tSQLt and generates test data.
 - Sync Step - deploys a NuGet package and synchronizes it with a working DB
 
-**Atlassian Developer & Atlassian Administrator** @ [freelance](https://upwork.com) _(Сентябрь 2018 - Сентябрь 2019)_ <br>
+**Atlassian Developer & Atlassian Administrator** @ [freelance](https://upwork.com) _(September 2014 - September 2019)_ <br>
 Set up, administer, upgrade and integrate JIRA and Confluence, Bitbucket Server, Bamboo
 - Roles, Permissions and Issue Level Security
 - Project Configuration
@@ -33,7 +33,7 @@ Set up, administer, upgrade and integrate JIRA and Confluence, Bitbucket Server,
 - Write, build and update scripts, for extending Jira and Confluence beyond its standard capabilities using Groovy and/or Atlassian REST API’s
 - Design and developing of App’s for Jira and Confluence
 
-**Web Performance consultant** @ [freelance]() _(Сентябрь 2019 - Февраль 2020)_ <br>
+**Web Performance consultant** @ [freelance, etc]() _(September 2019 - February 2020)_ <br>
 Single Page App (Messenger) React.
   - troubleshooting performance issues
   - detecting and eliminating memory leaks (javascript GC)  
